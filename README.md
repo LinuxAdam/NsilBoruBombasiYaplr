@@ -1,8 +1,10 @@
 # NsilBoruBombasiYaplr
 kabum
+# ŞAKA AMAÇLI
 
 Bu How To şeysi gerçek değildir yada öylemi :D?
 
+# SAKIN BUNU EVDE DENEMEYİN KENDİNİZE AĞIR HASAR VE ZEHİRLENME RİSKİ VARDIR VE ŞAKA AMAÇLIDIR
 
 # gerekenler:
 
@@ -17,7 +19,7 @@ Boru ve kapak
 koli bandı ve poşet
 benzin
 
-#Yapılış
+# Yapılış
 
 poşeti lın ve tüm barut ve kumu ekleyin ve bantlayın
 ve fitili ucu çıkçak şekilde bantlıyoruz ve borunun içine tıkıyoruz
